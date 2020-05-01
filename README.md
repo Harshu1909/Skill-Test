@@ -1,7 +1,4 @@
-Report
-Harsh Patel
-Email:- hp9995.hp@gmail.com
-Phone:- 437-770-4879
+
 
 Solution with React-Native with NodeJS
 
